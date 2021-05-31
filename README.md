@@ -10,5 +10,5 @@
 <li> looked at stack usage file again </li>
 
 <h2>30th May 2021</h2>
-<li>Only testing on real remote is left</li>
+<li>testing on real remote is needed to done by me.. will do it today</li>
 
