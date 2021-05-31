@@ -9,3 +9,6 @@
 <li> analysing if this can be improved, and will to test current progress o real remote this sunday or monday</li>
 <li> looked at stack usage file again </li>
 
+<h2>30th May 2021</h2>
+<li>Only testing on real remote is left</li>
+
