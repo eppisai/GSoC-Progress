@@ -12,3 +12,9 @@
 <h2>30th May 2021</h2>
 <li>testing on real remote is needed to done by me.. will do it</li>
 
+<h2> 31st June to 4th June </h2>
+<li> Insemester examination in college, didn't do much </li>
+
+<h2> 5th June 2021 </h2>
+<li></li>
+
