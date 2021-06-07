@@ -16,5 +16,14 @@
 <li> Insemester examination in college, didn't do much </li>
 
 <h2> 5th June 2021 </h2>
-<li></li>
+<li>Read on makefile documentation</li>
+<li>Discussed how i can start refactoring the code</li>
+<li> started with module diagram </li>
+
+<h2> 6th June 2021 </h2>
+<li> modifed makefile</li>
+<li> analysed on how we can reduce dependency on bootloader in firmware </li>
+
+<h2> 7th June 2021</h2>
+<li>Included the bootloader files in makefiles properly</li>
 
