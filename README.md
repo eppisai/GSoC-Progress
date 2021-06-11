@@ -27,3 +27,15 @@
 <h2> 7th June 2021</h2>
 <li>Included the bootloader files in makefiles properly</li>
 
+<h2> 8th June 2021</h2>
+<li>Used soirce trail..it was giving an error..</li>
+<li>tested the firmware with tranition on real remote, logic was wrong, now working on correcting it</li>
+
+
+<h2> 9th June 2021</h2>
+<li>Made the block diagram to represent the firmware</li>
+<li>corrected the logic of firmware</li>
+
+<h2>10th June 2021 </h2>
+
+
